@@ -4,121 +4,141 @@
       "id": 100,
       "firstname": "Vita",
       "lastname": "Havens",
-      "name": "Vita Havens"
+      "name": "Vita Havens",
+      "nationality": "egyptian"
     },
     {
       "id": 101,
       "firstname": "Vivia",
       "lastname": "Carlson",
-      "name": "Vivia Carlson"
+      "name": "Vivia Carlson",
+      "nationality": "egyptian"
     },
     {
       "id": 102,
       "firstname": "Dolli",
       "lastname": "Solitta",
-      "name": "Dolli Solitta"
+      "name": "Dolli Solitta",
+      "nationality": "egyptian"
     },
     {
       "id": 103,
       "firstname": "Mureil",
       "lastname": "Kesley",
-      "name": "Mureil Kesley"
+      "name": "Mureil Kesley",
+      "nationality": "egyptian"
     },
     {
       "id": 104,
       "firstname": "Alex",
       "lastname": "Marden",
-      "name": "Alex Marden"
+      "name": "Alex Marden",
+      "nationality": "egyptian"
     },
     {
       "id": 105,
       "firstname": "Pearline",
       "lastname": "Lasley",
-      "name": "Pearline Lasley"
+      "name": "Pearline Lasley",
+      "nationality": "egyptian"
     },
     {
       "id": 106,
       "firstname": "Carmela",
       "lastname": "Jammal",
-      "name": "Carmela Jammal"
+      "name": "Carmela Jammal",
+      "nationality": "egyptian"
     },
     {
       "id": 107,
       "firstname": "Trixi",
       "lastname": "Tamsky",
-      "name": "Trixi Tamsky"
+      "name": "Trixi Tamsky",
+      "nationality": "egyptian"
     },
     {
       "id": 108,
       "firstname": "Florie",
       "lastname": "Merat",
-      "name": "Florie Merat"
+      "name": "Florie Merat",
+      "nationality": "egyptian"
     },
     {
       "id": 109,
       "firstname": "Quintina",
       "lastname": "Palocz",
-      "name": "Quintina Palocz"
+      "name": "Quintina Palocz",
+      "nationality": "egyptian"
     },
     {
       "id": 110,
       "firstname": "Glynnis",
       "lastname": "Doig",
-      "name": "Glynnis Doig"
+      "name": "Glynnis Doig",
+      "nationality": "egyptian"
     },
     {
       "id": 111,
       "firstname": "Sam",
       "lastname": "Carlson",
-      "name": "Sam Carlson"
+      "name": "Sam Carlson",
+      "nationality": "egyptian"
     },
     {
       "id": 112,
       "firstname": "Alyda",
       "lastname": "Sibyls",
-      "name": "Alyda Sibyls"
+      "name": "Alyda Sibyls",
+      "nationality": "egyptian"
     },
     {
       "id": 113,
       "firstname": "Atlanta",
       "lastname": "Ajay",
-      "name": "Atlanta Ajay"
+      "name": "Atlanta Ajay",
+      "nationality": "egyptian"
     },
     {
       "id": 114,
       "firstname": "Mara",
       "lastname": "Kravits",
-      "name": "Mara Kravits"
+      "name": "Mara Kravits",
+      "nationality": "egyptian"
     },
     {
       "id": 115,
       "firstname": "Karina",
       "lastname": "Creamer",
-      "name": "Karina Creamer"
+      "name": "Karina Creamer",
+      "nationality": "egyptian"
     },
     {
       "id": 116,
       "firstname": "Dulce",
       "lastname": "Telfer",
-      "name": "Dulce Telfer"
+      "name": "Dulce Telfer",
+      "nationality": "egyptian"
     },
     {
       "id": 117,
       "firstname": "Clo",
       "lastname": "Vanni",
-      "name": "Clo Vanni"
+      "name": "Clo Vanni",
+      "nationality": "egyptian"
     },
     {
       "id": 118,
       "firstname": "Kellen",
       "lastname": "Angelis",
-      "name": "Kellen Angelis"
+      "name": "Kellen Angelis",
+      "nationality": "egyptian"
     },
     {
       "id": 119,
       "firstname": "Ardeen",
       "lastname": "Ursulette",
-      "name": "Ardeen Ursulette"
+      "name": "Ardeen Ursulette",
+      "nationality": "egyptian"
     }
   ],
 
